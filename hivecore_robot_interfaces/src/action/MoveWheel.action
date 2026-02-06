@@ -1,0 +1,11 @@
+# 目标 底盘运动
+float32 move_distance
+float32 move_angle
+---
+# 结果：运动成功，或执行完毕
+bool success
+string message
+---
+# 反馈：当前位置，当前角度，运动进度
+float32 current_pos
+float32 current_angle

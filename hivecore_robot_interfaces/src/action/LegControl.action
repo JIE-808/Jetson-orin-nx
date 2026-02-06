@@ -1,0 +1,7 @@
+# Goal: leg control parameters
+geometry_msgs/TwistStamped target
+---
+bool success
+string message
+---
+float32 progress

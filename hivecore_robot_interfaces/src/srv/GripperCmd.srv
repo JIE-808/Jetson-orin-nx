@@ -1,0 +1,6 @@
+uint8 devid
+uint8 loc
+uint8 speed
+uint8 torque
+---
+string state

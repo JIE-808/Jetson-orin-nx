@@ -1,0 +1,6 @@
+uint16 motor_id
+uint16 max_speed
+uint16 add_acc
+uint16 dec_acc
+---
+int16 ret

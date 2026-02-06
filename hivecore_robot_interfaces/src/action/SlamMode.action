@@ -1,0 +1,6 @@
+bool enable_mapping
+---
+bool success
+string message
+---
+string state

@@ -1,0 +1,4 @@
+string map_url
+---
+bool success
+string message

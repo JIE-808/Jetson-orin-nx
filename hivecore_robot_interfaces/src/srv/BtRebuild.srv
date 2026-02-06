@@ -1,0 +1,6 @@
+string type     #rebuild type: "Trigger", "Local", "Remote"
+string config
+string param
+---
+bool success
+string message

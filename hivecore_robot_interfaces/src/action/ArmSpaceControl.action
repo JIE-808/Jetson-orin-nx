@@ -1,0 +1,10 @@
+# Goal: target pose in space
+# Example fields; adjust as needed for your robot
+geometry_msgs/PoseStamped target
+---
+# Result
+bool success
+string message
+---
+# Feedback
+float32 progress

@@ -1,0 +1,8 @@
+# Goal: hand control parameters
+int32 mode  # 0=open, 1=close
+float32 effort
+---
+bool success
+string message
+---
+float32 progress

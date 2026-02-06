@@ -1,0 +1,11 @@
+uint8 loc
+uint8 speed
+uint8 torque
+uint8 mode
+---
+uint8 result
+string state
+---
+uint8 loc
+uint8 speed
+uint8 torque

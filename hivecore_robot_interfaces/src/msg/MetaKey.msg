@@ -1,0 +1,10 @@
+string source
+string type
+string position
+int8 a
+int8 b
+int8 sk
+int8 trigger
+int8 sk_x
+int8 sk_y
+geometry_msgs/Pose pose
