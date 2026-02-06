@@ -1,2 +1,3 @@
-# Jetson-Orin-NX
-Linux -> models &amp; Yolo 
+# 本仓库基于ROS2 及 Jetson Orin nx开发
+    #主要用于探索使用边缘计算设备的具身智能体在ROS2下的完整控制流程
+
