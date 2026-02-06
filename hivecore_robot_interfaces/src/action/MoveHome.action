@@ -1,8 +1,0 @@
-# 目标 回零点
----
-# 结果：运动成功，或执行完毕
-bool success
-string message
----
-# 反馈：各关节位置，运动进度
-int64[] joint_values

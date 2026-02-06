@@ -1,8 +1,0 @@
-string camera_position
-
----
-
-std_msgs/Header header
-string info
-bool success
-interfaces/PoseClassAndID[] objects

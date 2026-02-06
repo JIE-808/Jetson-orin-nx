@@ -1,7 +1,0 @@
-# Goal: specify object id/name
-string object_id
----
-bool success
-string message
----
-float32 grasp_progress

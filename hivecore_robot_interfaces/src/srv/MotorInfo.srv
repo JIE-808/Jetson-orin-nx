@@ -1,6 +1,0 @@
-string target
-string type
-uint8[] motor_ids
----
-float32[] motor_angles
-bool ret
